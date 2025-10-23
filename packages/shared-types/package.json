@@ -1,0 +1,15 @@
+{
+  "name": "@rapid-website-generator/shared-types",
+  "version": "1.0.0",
+  "description": "Shared TypeScript types for Rapid Website Generator",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "clean": "rm -rf dist"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
